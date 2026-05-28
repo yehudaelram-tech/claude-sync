@@ -27,7 +27,6 @@ Register-ScheduledTask `
     -Action $action `
     -Trigger $trigger `
     -Settings $settings `
-    -RunLevel Highest `
     -Description "Auto-syncs Claude workspace to GitHub every 30 minutes" | Out-Null
 
 Write-Host "Auto-sync installed successfully!" -ForegroundColor Green
