@@ -1,0 +1,15 @@
+# Claude session/temp files
+*.lock
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Don't sync auth tokens or secrets
+*.env
+secrets.*
+
+# Large binary outputs (optional - remove lines below if you want these synced)
+# *.pptx
+# *.xlsx
+# *.docx
+# *.pdf
