@@ -316,3 +316,10 @@
 2026-05-31 18:26:36  Changes detected - syncing...
 2026-05-31 18:26:36  error: cannot pull with rebase: You have unstaged changes.
 2026-05-31 18:26:36  error: Please commit or stash them.
+2026-05-31 18:26:36  [main ba2ceb9] Auto-sync 2026-05-31 18:26
+2026-05-31 18:26:36   1 file changed, 7 insertions(+)
+2026-05-31 18:26:46  fatal: unable to access 'https://github.com/yehudaelram-tech/claude-sync.git/': Could not resolve host: github.com
+2026-05-31 18:26:47  Sync complete.
+2026-05-31 18:28:53  Changes detected - syncing...
+2026-05-31 18:28:53  error: cannot pull with rebase: You have unstaged changes.
+2026-05-31 18:28:53  error: Please commit or stash them.
