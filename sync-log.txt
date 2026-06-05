@@ -625,3 +625,11 @@
 2026-06-05 12:08:54  Changes detected - syncing...
 2026-06-05 12:08:54  error: cannot pull with rebase: You have unstaged changes.
 2026-06-05 12:08:54  error: Please commit or stash them.
+2026-06-05 12:08:54  [main 6d435f1] Auto-sync 2026-06-05 12:08
+2026-06-05 12:08:54   1 file changed, 8 insertions(+)
+2026-06-05 12:08:57  To https://github.com/yehudaelram-tech/claude-sync.git
+2026-06-05 12:08:57     4567fab..6d435f1  main -> main
+2026-06-05 12:08:57  Sync complete.
+2026-06-05 12:28:53  Changes detected - syncing...
+2026-06-05 12:28:53  error: cannot pull with rebase: You have unstaged changes.
+2026-06-05 12:28:53  error: Please commit or stash them.
