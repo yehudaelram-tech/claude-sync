@@ -6733,3 +6733,10 @@
 2026-08-19 18:28:53  Changes detected - syncing...
 2026-08-19 18:28:53  error: cannot pull with rebase: You have unstaged changes.
 2026-08-19 18:28:53  error: Please commit or stash them.
+2026-08-19 18:28:53  [main a18408c] Auto-sync 2026-08-19 18:28
+2026-08-19 18:28:53   1 file changed, 8 insertions(+)
+2026-08-19 18:29:14  fatal: unable to access 'https://github.com/yehudaelram-tech/claude-sync.git/': Failed to connect to github.com port 443 after 21181 ms: Could not connect to server
+2026-08-19 18:29:14  Sync complete.
+2026-08-19 18:58:53  Changes detected - syncing...
+2026-08-19 18:58:53  error: cannot pull with rebase: You have unstaged changes.
+2026-08-19 18:58:53  error: Please commit or stash them.
